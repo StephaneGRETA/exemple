@@ -1,6 +1,13 @@
-# exemple
+# TP GitHub
 
-## titre 2
+création d'un répertoire git sur ma machine
+  git init
+
+
+
+
+
+
 
 lfdskdslmfkdslmfkdlsmfkdlsfkmdsfkdslmfklmdsfkmlsdk en **gras** en *italique*.
 
