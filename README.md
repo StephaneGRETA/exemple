@@ -14,7 +14,7 @@ lfdskdslmfkdslmfkdlsmfkdlsfkmdsfkdslmfklmdsfkmlsdk en **gras** en *italique*.
 
 Voici un exemple de code
 
- <h1> exemple html </h1>
-  <p> toujours un exemple </p>
+ alert("exemple")
+  let mavar = 3
 
 
