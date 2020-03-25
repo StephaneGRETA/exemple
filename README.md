@@ -13,7 +13,6 @@ lfdskdslmfkdslmfkdlsmfkdlsfkmdsfkdslmfklmdsfkmlsdk en **gras** en *italique*.
 2. deux
 
 Voici un exemple de code
-
  alert("exemple")
   let mavar = 3
 
