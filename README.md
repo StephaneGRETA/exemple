@@ -13,7 +13,10 @@ lfdskdslmfkdslmfkdlsmfkdlsfkmdsfkdslmfklmdsfkmlsdk en **gras** en *italique*.
 2. deux
 
 Voici un exemple de code
- alert("exemple")
-  let mavar = 3
 
+    <script src="./public/jeu.js"></script>
+    alert("exemple")
 
+lien vers le [git flow](https://nvie.com/posts/a-successful-git-branching-model/).
+insérer une image
+![schema](https://nvie.com/img/git-model@2x.png)
